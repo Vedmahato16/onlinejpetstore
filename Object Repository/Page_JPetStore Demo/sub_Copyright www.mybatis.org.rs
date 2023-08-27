@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>sub_Copyright www.mybatis.org</name>
+   <tag></tag>
+   <elementGuidId>ac834572-59b1-4ecf-a87a-609111533214</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='Content']/p[2]/sub</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>sub</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>sub</value>
+      <webElementGuid>224f330d-cea7-42ab-9112-291b3c53b24d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Copyright www.mybatis.org </value>
+      <webElementGuid>7337e744-4c0d-499b-8f9d-8c13d5a414ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Content&quot;)/p[2]/sub[1]</value>
+      <webElementGuid>bfe79fdb-cbc5-4957-a699-a65dd65db8fe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Content']/p[2]/sub</value>
+      <webElementGuid>e3214aac-8f0d-4e77-b2f0-d7ea7ae6bad8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter the Store'])[1]/following::sub[1]</value>
+      <webElementGuid>cd2f3597-1831-4aa2-95c4-8f59b8575c57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome to JPetStore 6'])[1]/following::sub[1]</value>
+      <webElementGuid>ef62150a-4d20-4fc1-bea9-c91ebb344674</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'Content', '&quot;', ')/p[2]/sub[1]')])[1]/preceding::sub[1]</value>
+      <webElementGuid>ed1e9a5e-d278-475b-a870-251db135d2dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Copyright www.mybatis.org']/parent::*</value>
+      <webElementGuid>97661a2b-fe5a-4496-9723-14cb8b58c65d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//sub</value>
+      <webElementGuid>528348ab-4ed2-4063-85ed-e538deac92e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//sub[(text() = 'Copyright www.mybatis.org ' or . = 'Copyright www.mybatis.org ')]</value>
+      <webElementGuid>1fb6d566-e927-4174-b1af-f0acede395fd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

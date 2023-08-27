@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Return to MainMenu on Bird search</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c795ade6-7a94-4209-b325-2df710e499db</testCaseGuid>
+</TestCaseEntity>
